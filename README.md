@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Omar Caiguan Ojeda
 
-<!--
-**omar-caiguan-ojeda/omar-caiguan-ojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bienvenido a mi perfil](assets/banner.png)
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🧑‍💻 **Desarrollador Full Stack** con experiencia en **TypeScript**, **Node.js**, y **NestJS**.
+- 🌱 Actualmente aprendiendo **Prisma ORM** y **Socket.IO**.
+- 🎯 Apasionado por crear soluciones efectivas y escalables.
+- 🏋️ Amante del desarrollo web, el diseño de APIs, y la gestión de bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+
+## 📈 Mis Proyectos Destacados
+- [🚀 Sistema de Gestión de Gimnasios](https://github.com/omar-caiguan-ojeda/sistema-gimnasios)
+  - API REST para la gestión de usuarios, membresías y notificaciones.
+  - Tecnologías: **NestJS**, **Prisma**, **MySQL**.
+
+- [💬 Sistema de Chat en Tiempo Real](https://github.com/omar-caiguan-ojeda/chat-realtime)
+  - Chat basado en **Socket.IO** con autenticación y encriptación.
+  - Tecnologías: **TypeScript**, **Socket.IO**, **MongoDB**.
+
+## 📫 ¿Quieres Contactarme?
+- LinkedIn: [Omar Caiguan Ojeda](https://www.linkedin.com/in/omar-caiguan-ojeda)
+- Email: [omar.caiguan@example.com](mailto:omar.caiguan@example.com)
+
+## ✨ Estadísticas de GitHub
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-caiguan-ojeda&show_icons=true&theme=radical)
