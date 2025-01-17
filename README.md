@@ -30,7 +30,8 @@
 ## ✨ Estadísticas de GitHub
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-caiguan-ojeda&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-caiguan-ojeda&langs_count=8&theme=tokyonight)
-![Omar's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omar-caiguan-ojeda&theme=react-dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omar-caiguan-ojeda)](https://github.com/omar-caiguan-ojeda)
+
 
 
 
