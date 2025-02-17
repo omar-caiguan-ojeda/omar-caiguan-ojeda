@@ -33,9 +33,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=omar-caiguan-ojeda)](https://github.com/omar-caiguan-ojeda)
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar-caiguan-ojeda&show_icons=true&theme=radical&count_private=true)
 ![GitHub Calendar](https://github-readme-calendar.vercel.app/api?username=omar-caiguan-ojeda)
-![Commits Chart](https://ghchart.rshb.dev/omar-caiguan-ojeda)
-![Followers](https://img.shields.io/github/followers/omar-caiguan-ojeda?style=social)
-![Stars](https://img.shields.io/github/stars/omar-caiguan-ojeda?style=social)
+
 
 
 
