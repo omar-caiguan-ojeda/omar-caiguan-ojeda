@@ -69,6 +69,7 @@ Sistema de consulta de carteleras de cine con API REST y base de datos NoSQL.
 ## 📫 ¿Cómo contactarme?  
 📌 **LinkedIn:** [Omar Caiguan Ojeda](https://www.linkedin.com/in/omar-caiguan-ojeda)  
 📌 **Email:** [omar.caiguan@gmail.com](mailto:omar.caiguan@gmail.com)  
+📌 **Curriculum Vitae:** [Ver CV](https://res.cloudinary.com/dbuzqsbo8/image/upload/v1739777263/Omar_Leonardo_Caiguan_Ojeda_eixeiz.pdf)
 
 ---
 
@@ -79,4 +80,3 @@ Sistema de consulta de carteleras de cine con API REST y base de datos NoSQL.
 
 ---
 
-Este **README** ahora refleja con precisión tu experiencia y habilidades. 🚀 Puedes copiarlo y pegarlo directamente en tu repositorio. ¿Quieres que agregue algo más?
